@@ -3,6 +3,6 @@
 
 • Meu nome é Manuela, mas atendo o ***user*** CC-MC2108
 
-• Estou estudando Tecnologia e Robótica pelo <https://www.alura.com.br/>
+• Estou estudando Tecnologia e Robótica pelo [Alura](https://www.alura.com.br/)
 
-![](https://tenor.com/bGMuh.gif.jpg)
+![](https://tenor.com/pt-BR/view/no-face-ghost-eating-cake-anime-gif-17758293)

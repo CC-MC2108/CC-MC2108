@@ -5,4 +5,4 @@
 
 • Estou estudando Tecnologia e Robótica pelo <https://www.alura.com.br/>
 
-![](https://tenor.com/wqfU.gif)
+![](https://tenor.com/bSiXa.gif)

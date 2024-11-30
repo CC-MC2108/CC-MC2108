@@ -5,4 +5,4 @@
 
 • Estou estudando Tecnologia e Robótica pelo [Alura](https://www.alura.com.br/)
 
-![img](https://tenor.com/pt-BR/view/no-face-ghost-eating-cake-anime-gif-17758293)
+![a boy wearing a hat with a sun on it is standing next to a hamster and a ghost](https://tenor.com/pt-BR/view/hanako-kun-anime-shy-anime-shy-boy-shy-gif-886636197089261139)

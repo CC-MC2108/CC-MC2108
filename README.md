@@ -5,4 +5,4 @@
 
 • Estou estudando Tecnologia e Robótica pelo [Alura](https://www.alura.com.br/)
 
-![nofaceghost](https://tenor.com/pt-BR/view/no-face-ghost-eating-cake-anime-gif-17758293)
+![img](https://tenor.com/pt-BR/view/no-face-ghost-eating-cake-anime-gif-17758293)

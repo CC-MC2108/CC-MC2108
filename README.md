@@ -5,4 +5,7 @@
 
 • Estou estudando Tecnologia e Robótica pelo [Alura](https://www.alura.com.br/)
 
-![img](https://tenor.com/pt-BR/view/hanako-kun-anime-shy-anime-shy-boy-shy-gif-886636197089261139)
+>p align="center";
+<img width="470" src=
+https://tenor.com/pt-BR/view/hanako-kun-anime-shy-anime-shy-boy-shy-gif-886636197089261139)
+>
